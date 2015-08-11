@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1380593467 source:c:\users\gudio tebes\desktop\ingenieria en sistemas\segundo año\2do cuatrimestre\automatas y lenguajes\maquinaturing\main.cpp
+	<iostream>
+
+1410725357 source:c:\users\walters\desktop\automatas y lenguajes\automatas y lenguajes\maquinaturing\main.cpp
+	"include\TURING.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<conio.h>
+
+1410632448 c:\users\walters\desktop\automatas y lenguajes\automatas y lenguajes\maquinaturing\include\maquinaturing.h
+	<iostream>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<conio.h>
+
+1410632462 source:c:\users\walters\desktop\automatas y lenguajes\automatas y lenguajes\maquinaturing\src\maquinaturing.cpp
+	"MAQUINATURING.h"
+
+1410632999 c:\users\walters\desktop\automatas y lenguajes\automatas y lenguajes\maquinaturing\include\turing.h
+	<iostream>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<conio.h>
+
